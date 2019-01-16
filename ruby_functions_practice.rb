@@ -29,3 +29,7 @@ end
 def add_string_as_number (string_1, string_2)
   return string_1.to_i + string_2.to_i
 end
+
+def return_number_to_full_name__month_3()
+  return March
+end
